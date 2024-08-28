@@ -1,0 +1,240 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');
+
+#btn1{
+    display: none;
+    position: fixed;
+    bottom: 20px;
+    right: 30px;
+    font-size: 35px;
+    border: none;
+    background-color: white ;
+    display: inline-block;
+   text-align: right;
+}
+
+
+
+html,body{
+    font-family: nunito;
+}
+
+body{
+    background-color: var(--background-color-light);
+    color: var(--normal-text-color);
+}
+#navbarNav a {
+    color: #101010;
+    font-weight: bold;
+}
+#navbar{
+   background-color: rgb(238, 237, 237);
+   width: 100%;
+    position: fixed;
+    top: 0;
+    right: 0;
+
+}
+.btn5{
+    background-color: #b1acda;
+    border-radius: 10px;
+   
+}
+#covid h3{
+    color: #101010;
+    font-weight: bold;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#first-sec-img{
+    width: 500px;
+    max-width: 100%;
+    
+}
+
+#first-sec{
+    padding-top: 25px;
+    
+    text-align: center;
+}
+#first-sec h1{
+    font-weight: bolder;
+    text-align: center;
+}
+#first-sec p{
+    font-weight: bolder;
+    color: #4C3BCF;
+}
+
+.navbar-brand {
+    max-width: 30px;
+}
+.span-one{
+    color: #8151ab;
+    font-weight: bolder;
+}
+.row span {
+    color: #8151ab;
+    font-weight: bolder;
+}
+
+#second-sec h3{
+    color: #95280f;
+    font-weight: bolder;
+}
+#second-sec h1{
+    color:#101010;
+    font-weight: bolder;
+}
+.p-one span {
+    color: #4C3BCF;
+    font-weight: bold;
+    font-weight: bolder;
+}
+.p-one{
+    color: #8151ab;
+    color: #4C3BCF;
+    font-weight: bolder;
+}
+#third-sec p{
+    color: black;
+}
+
+#third-sec h3,h5{
+    color: #4C3BCF;
+    font-weight: bolder;
+    text-align: center;
+}
+#third-sec h1{
+    color:black ;
+}
+#third-sec h4 {
+    color:#0c4d04 ;
+    font-weight: bold;
+    text-align: center;
+}
+#fourth-sec{
+    background-color:#e0f3f6 ;
+}
+#fourth-sec h1{
+    color: #4C3BCF;
+    font-weight: bolder;
+    text-align: center;
+}
+#fourth-sec h5 {
+    color:#0c4d04 ;
+    font-weight: bolder;
+    text-align: center;
+}
+#fourth-sec h4 {
+    color:black ;
+    font-weight: bolder;
+    text-align: center;
+}
+.p-one p{
+    color:black ;
+    font-weight: bolder;
+    text-align: center;
+}
+#fourth-sec h2{
+    color:rgb(42, 127, 0) ;
+    font-weight: bolder;
+    text-align: center;
+}
+#fifth-sec{
+    background-color:#e0f3f6 ;
+    text-align: center;
+    font-weight: bolder;
+    padding-bottom: 150px;
+}
+#fifth-sec h3 , p {
+    color: #4C3BCF;
+}
+#fifth-sec h4 {
+    color: rgb(255, 59, 124);
+}
+#fifth-sec h5 , h1{
+    color: black;
+}
+#sixth-sec {
+    background-color:#e0f3f6 ;
+    text-align: center;
+    font-weight: bolder;
+    
+    margin-right:125px;
+    margin-left: 125px;
+
+}
+#sixth-sec h2{
+    color: red;
+}
+#seventh-sec {
+    text-align: center;
+    font-weight: bolder;
+}
+#seventh-sec h5{
+    color:#4C3BCF ;
+}
+#seventh-sec h3 {
+    color: #0c4d04;
+}
+#eight-sec{
+    background-color: #4C3BCF;
+    font-weight: bolder;
+    text-align: left;
+    padding-top: 5.5rem !important;
+    height:600px;
+}
+#eight-sec h4,h5{
+    color: white;
+}
+#eight-sec p{
+    color: rgb(244, 105, 128);
+}
+#eight-sec h6{
+    color: rgb(111, 255, 8);
+}
+#eight-sec .col-md-5{
+    background-color: rgb(11, 1, 49);
+    height: 450px;
+    padding-top: 4.5rem !important;
+}
+ #circle-image img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: solid 3px rgb(238, 15, 186);
+    margin-left: 5px;
+}
+#nineth-sec h5{
+    color: rgb(185, 121, 1);
+}
+#nineth-sec{
+    font-weight: bolder;
+    color: #101010;
+    background-color:#b9b1f8 ;
+    font-size: 25px;
+    text-align: center;
+}
+#nineth-sec h1{
+    color: #8151ab;
+}
+#nineth-sec p {
+    color: #101010;
+}
+#last-sec{
+    background-color:#eae8ff;
+    text-align: center;
+}
+#last-sec h4{
+    color: #0c4d04;
+    font-weight: bolder;
+}
+#last-sec h1,p{
+    color: #0d0265;
+    font-weight: bolder;
+}
+#last-sec h2{
+    font-weight: bolder;
+}
+.last-section{
+    background-color: #020231;
+}
